@@ -1,0 +1,5 @@
+python-telegram-bot==21.10     # Adjust the version as needed
+python-dotenv
+ics
+openai
+pytz
